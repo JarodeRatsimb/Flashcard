@@ -11,7 +11,7 @@ A web app that consists of flashcards hwere you have to guess the capital of cou
 
 ## Run
 
-[Flashcard webpage](https://jaroderatsimb.github.io/Flashcard/)
+[Flashcard webpage](https://jaroderatsimb.github.io/flashcard/)
 
 ## More
 
