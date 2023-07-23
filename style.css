@@ -31,18 +31,6 @@ h1 {
 }
 
 .container {
-    /*font-family: 'Luckiest Guy', cursive;*/
-    /*background-color: #ff8e84;*/
-    /*font-size: 1.5em;*/
-    /*border-radius: 10px;*/
-    /*text-align: center;*/
-    /*margin: 0;*/
-    /*width: 24vmin;*/
-    /*height: 24vmin;*/
-    /*display: flex;*/
-    /*align-items: center;*/
-    /*justify-content: center;*/
-    /*!*box-shadow: rgba(0, 0, 0, 0.4) 0 30px 90px;*!*/
     perspective: 1000px;
 }
 
@@ -70,7 +58,6 @@ h1 {
     background-color: #ff8e84;
     z-index: 1;
     backface-visibility: hidden;
-    /*display: flex;*/
     flex-direction: column;
     justify-content: flex-start;
 }
