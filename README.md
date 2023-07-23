@@ -2,7 +2,7 @@
 
 ## About
 
-A web app that consists of flashcards hwere you have to guess the capital of countries. The front is the name of the country and its flag and the back is the Capital. The back of the flashcards are revealed upon hover.
+A web app that consists of flashcards where you guess the capital of countries. The front is the name of the country and its flag, and the back is the Capital. The back of the flashcards are revealed upon hover.
 
 ## Tech Stack
 
